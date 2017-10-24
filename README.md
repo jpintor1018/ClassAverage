@@ -1,9 +1,13 @@
 # TestAverage
 
-clude <iostream>
+#include <iostream>
+
 using namespace std;
+
 int main()
+
 {
+
     int num,num2=0, num3=0,num4=0,t ;
     double test[25], sum=0, average;
     char name[20];
